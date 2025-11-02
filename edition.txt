@@ -4,3 +4,4 @@ third edition
 issue resolved
 <<<<<<< HEAD
 Hotfix team's solution
+new function added
